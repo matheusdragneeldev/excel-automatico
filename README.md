@@ -11,7 +11,7 @@ Este é um programa em **Java** desenvolvido para automatizar o preenchimento de
 Antes de rodar o programa, certifique-se de que seu computador atenda aos seguintes requisitos:
 
 - **Sistema Operacional:** Windows  
-- **Google Chrome:** Instalado no local padrão do sistema  
+- **Google Chrome:** Instalado no sistema  
 - **Java Development Kit (JDK):** Versão 17 ou superior
 
 ---
