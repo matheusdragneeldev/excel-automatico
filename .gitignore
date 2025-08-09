@@ -1,0 +1,50 @@
+# Arquivos de compilação e build (Maven/Gradle)
+/target/
+/build/
+
+# Mantém o Maven Wrapper, que é essencial para o projeto
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+logs/
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
+
+# --- Configurações de IDEs ---
+
+### IntelliJ IDEA ###
+# Ignora todo o diretório de configuração do IntelliJ
+.idea/
+
+# Arquivos de módulo do IntelliJ (contêm caminhos locais)
+*.iml
+*.iws
+*.ipr
+
+# Caso queira compartilhar configurações específicas, libere-as aqui.
+# Exemplo: Descomente as linhas abaixo para compartilhar estilos de código e configurações de execução.
+# !.idea/codeStyles/
+# !.idea/runConfigurations/
+
+
+### VS Code ###
+.vscode/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
